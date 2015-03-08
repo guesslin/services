@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/guesslin/services?status.svg)](https://godoc.org/github.com/guesslin/services)
+
 Google API Services
 ===================
 
